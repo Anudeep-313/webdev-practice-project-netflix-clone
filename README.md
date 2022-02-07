@@ -1,4 +1,4 @@
-# webdev-practice-project-netflix-clone [Click here](https://webdev-practice-project-netflix-clone.vercel.app/)
+# webdev-practice-project-netflix-clone : [Click here](https://webdev-practice-project-netflix-clone.vercel.app/)
 
 ## To view each page separately 👇 👇
 ## - [Landing page](https://webdev-practice-project-netflix-clone.vercel.app/)
